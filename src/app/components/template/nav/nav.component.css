@@ -1,0 +1,28 @@
+*{
+margin:0;
+padding:0;
+}
+
+.navbar {
+    background-color: #3B3C3F;
+    font-size: 2rem;
+    margin: 1rem;
+}
+
+img {
+    width: 15rem;
+    margin-left:5rem;
+}
+
+.text_final_nav{
+    color:#fff;
+}
+
+.nav-item :hover{
+    color:#FF914D;
+    height: 0.175rem;
+    text-decoration: underline 3px #ff914d;
+    transform: scale(1, 1);
+    transition: 0.6s ease;
+    border-radius: 10px;
+}
