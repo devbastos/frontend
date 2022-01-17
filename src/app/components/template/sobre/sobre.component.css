@@ -1,11 +1,11 @@
 svg {
     max-width: 2rem;
-    color:#fff;    
+    color: #FF914D;  
     margin:1rem;
 }
 
 svg:hover {
-    color: aqua;
+    max-width: 3rem;
 }
 
 span{

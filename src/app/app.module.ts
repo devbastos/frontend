@@ -7,6 +7,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavComponent } from './components/template/nav/nav.component';
 import { HeaderComponent } from './components/template/header/header.component';
 import { SobreComponent } from './components/template/sobre/sobre.component';
+import { ProjetosComponent } from './components/template/projetos/projetos.component';
+import { ContatosComponent } from './components/template/contatos/contatos.component';
+import { FooterComponent } from './components/template/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +17,9 @@ import { SobreComponent } from './components/template/sobre/sobre.component';
     NavComponent,
     HeaderComponent,
     SobreComponent,
+    ProjetosComponent,
+    ContatosComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
