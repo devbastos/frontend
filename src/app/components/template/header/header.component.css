@@ -3,7 +3,7 @@
     margin-left:10.7rem;
 } */
 hr {
-   
+   margin-top: 8rem;
     border-bottom:  3px solid #ff914d;
 }
 
@@ -15,14 +15,14 @@ p{
 }
 
 .bi {
-    color: white;
+    color: #FF914D;
     font-size: 2rem;
     margin: 0.5rem;
 
 }
 
 .bi:hover {
-    color: #FF914D;
+    color: white;
     font-size: 1.8rem;
     transform: scale(1, 1);
     transition: 0.2s ease;
