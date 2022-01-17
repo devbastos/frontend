@@ -1,0 +1,29 @@
+
+/* .icon_github{
+    margin-left:10.7rem;
+} */
+hr {
+   
+    border-bottom:  3px solid #ff914d;
+}
+
+p{
+    font-size: 40px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.bi {
+    color: white;
+    font-size: 2rem;
+    margin: 0.5rem;
+
+}
+
+.bi:hover {
+    color: #FF914D;
+    font-size: 1.8rem;
+    transform: scale(1, 1);
+    transition: 0.2s ease;
+}
