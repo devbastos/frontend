@@ -18,6 +18,9 @@ img {
 
 .nav-item {
     margin:0.5rem;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: end;
 }
 
 .nav-item :hover {
