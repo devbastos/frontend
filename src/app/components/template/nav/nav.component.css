@@ -29,6 +29,7 @@ img {
     text-decoration: underline 3px #ff914d;
     transform: scale(1, 1);
     transition: 0.6s ease;
+    margin:10px;
     
 }
 
