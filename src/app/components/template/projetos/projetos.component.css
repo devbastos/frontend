@@ -7,3 +7,7 @@ span{
     max-width: 40rem;
     display: inline-block;
 }
+
+.card:hover {
+    border: solid 2px #FF914D;
+}
