@@ -5,19 +5,19 @@
 
 .navbar {
     background-color: #3b3c3ff3;
-    font-size: 2rem;
+    font-size: 3rem;
     margin:0.5rem;
 
 }
 
 img {
     width: 15rem;
-    margin-left: 5rem;
+    margin-left: 6.5rem;
 }
 
 
 .nav-item {
-    margin:0.9rem;
+    margin:0.5rem;
     font-size: 1.4rem;
     display: flex;
     justify-content: center;
