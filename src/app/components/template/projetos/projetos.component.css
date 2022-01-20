@@ -13,13 +13,11 @@ span{
 }
 
 .btn {
-    margin-top: 7rem;
     color: rgb(139, 134, 134);
     padding: 0.5rem;    
     border:1px solid;
     display: flex;
     justify-content: center;
-    margin-left: 17rem;
 }
 
 .btn:hover{
