@@ -4,4 +4,6 @@ span{
 .card {
     background-color: transparent;
     color: white;
+    max-width: 40rem;
+    display: inline-block;
 }
