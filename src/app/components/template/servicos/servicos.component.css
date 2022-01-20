@@ -14,7 +14,7 @@ span{
 .card-text {
     display: flex;
     justify-content: center;
-    color: #fff;
+    color: rgb(228, 224, 224);
     font-size: 2rem;
 }
 
