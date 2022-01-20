@@ -1,0 +1,56 @@
+svg {
+    max-width: 3rem;
+    color: #FF914D;
+    background-color: #fff;
+    border-radius: 10px; 
+    margin: 1rem; 
+}
+
+
+span{
+    color: #FF914D;
+}
+
+.card-text {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    display: inline-block;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.card:hover {
+    flex: 1;
+    position: relative;
+    background-color: #FF914D;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+
+
+
+/* #service .services {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+#service .services .service {
+    flex: 1;
+    position: relative;
+    padding: 2rem;
+    background-color: #212121;
+    cursor: pointer;
+    transition: all 1s;
+} */

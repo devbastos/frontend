@@ -10,6 +10,7 @@ import { SobreComponent } from './components/template/sobre/sobre.component';
 import { ProjetosComponent } from './components/template/projetos/projetos.component';
 import { ContatosComponent } from './components/template/contatos/contatos.component';
 import { FooterComponent } from './components/template/footer/footer.component';
+import { ServicosComponent } from './components/template/servicos/servicos.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { FooterComponent } from './components/template/footer/footer.component';
     ProjetosComponent,
     ContatosComponent,
     FooterComponent,
+    ServicosComponent,
   ],
   imports: [
     BrowserModule,
