@@ -24,3 +24,7 @@ span{
     color: #ffffff;
     background-color: #FF914D;
 }
+
+.card {
+    max-width: 25rem;
+}
